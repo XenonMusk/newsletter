@@ -75,3 +75,9 @@ app.listen(process.env.PORT || 3000, function(){
 
 // audience Id
 // 1f6015cee2
+
+//To update any changes done in the project to the heroku server
+// git add .
+// git commit -m "number"
+// git push heroku master
+// https://protected-tor-22496.herokuapp.com/
